@@ -15,6 +15,7 @@ Awesome resources for managing AWS cost.
 - https://github.com/aramalipoor/aws-cost-saver
 - https://github.com/localstack/localstack
 - https://github.com/trackit/trackit
+- [EOLWatch](https://eolwatch.pages.dev/)
 
 ## AWS solutions
 - [Calculator](https://calculator.aws/)
